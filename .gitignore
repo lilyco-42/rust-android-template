@@ -1,0 +1,19 @@
+*.iml
+.gradle
+/local.properties
+/.idea/
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Rust
+native_lib/target/
+**/target/
+
+# IDE
+.vscode/
+*.swp
+*.swo

@@ -1,0 +1,2 @@
+运行 `cargo ndk --target aarch64-linux-android --platform 24 -- build --release` 后，
+将 native_lib/target/aarch64-linux-android/release/libnative_lib.so 复制到这里

@@ -1,0 +1,2 @@
+运行 `cargo ndk --target armv7-linux-androideabi --platform 24 -- build --release` 后，
+将 native_lib/target/armv7-linux-androideabi/release/libnative_lib.so 复制到这里
