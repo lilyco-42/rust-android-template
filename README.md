@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="docs/banner.svg" width="720" alt="banner">
+</div>
+
 # Rust + Kotlin Android 项目模板
 
 [![Rust](https://img.shields.io/badge/Rust-1.96+-orange?logo=rust)](https://www.rust-lang.org/)
